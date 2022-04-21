@@ -1,0 +1,37 @@
+
+        body{
+            background-color: #d4d6eb;
+            background-image: linear-gradient(43deg, #d4d6eb 0%, #9b959b 22%, #7c7970 49%, #554545 75%, #252323 100%);    
+            font-family: cursive;
+            margin: 20px;
+        }
+        h2 , h4{
+            color: darkgray; 
+            background-color: black; 
+            text-align: center;
+        }
+        .box{
+            height: fit-content;
+            width: fit-content;
+            background-color: #0093E9;
+            background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+            border: 2px solid;
+            padding: 10px;
+        }
+        img{
+            height: 300px;
+            width: 400px;
+            margin-left: 30px;
+            padding-left: 30px;
+           
+        }
+        hr{
+            border: 1px solid;
+        }
+    
+        .para
+        {
+            background-color: #74EBD5;
+            background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+            
+        }

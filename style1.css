@@ -1,0 +1,42 @@
+body{
+    background-color: #d4d6eb;
+    background-image: linear-gradient(43deg, #d4d6eb 0%, #9b959b 22%, #7c7970 49%, #554545 75%, #252323 100%);    
+    font-family: cursive;
+    margin: 20px;
+}
+
+.box
+{
+    height: fit-content;
+    width: fit-content;
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    border: 2px solid;
+    padding: 10px;
+}
+
+.head
+{
+    text-align: center;
+    color: darkgray;
+    background-color: black;
+}
+img{
+    height: 300px;
+    margin-left: 50px;
+}
+hr{
+    border: 1px solid;
+}
+
+#image
+{
+    padding: 7px;
+}
+
+.para
+    {
+        background-color: #74EBD5;
+        background-image: linear-gradient(90deg, #74EBD5 0%, #9FACE6 100%);
+            
+    }
